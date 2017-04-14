@@ -1,0 +1,12 @@
+system-config.js*
+client/**/*.js
+client/**/*.map
+client/app/**/*.js
+client/app/**/*.map
+client/typings
+node_modules
+jspm_packages
+bower_components
+aot/*
+dist/*
+yarn.lock
